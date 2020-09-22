@@ -1,0 +1,28 @@
+site_name: Hacktoberfest in Ado-Ekiti
+nav:
+  - Introduction: 'index.md'
+  - Tagging: 'tagging.md'
+  - Meetups:
+    - Overview: 'meetups/README.md'
+    - GitHub Workhop: 'meetups/github-workhop.md'
+    - OpenSource with æternity: 'meetups/open-source-with-aeternity.md'
+    - Hacktoberfest: 'meetups/hacktoberfest.md'
+  - Guildlines:
+    - Overview: 'guildlines/README.md'
+    - Pull Request: 'guildlines/pull-request.md'
+theme:
+  name: 'material'
+  palette:
+      primary: black
+      accent: white
+      toggle:
+        icon: fontawesome/toggle-on
+        name: Switch to light mode
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  icon:
+    logo: fontawesome/brands/readme
+    repo: fontawesome/brands/github
+repo_name: 'emmanuelJet/hfado-doc'
+repo_url: 'https://github.com/emmanuelJet/hfado-doc'
