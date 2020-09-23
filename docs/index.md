@@ -13,6 +13,6 @@ Listed below are the communities affiliated with this meetup.
 
 - Developer Student Clubs, Ekiti State University(DSC EKSU).
 - ækiti æmbassy(ækiti).
-- Microsoft Student Partners, Ekiti State University(MSP EKSU).
+- Microsoft Learn Student Ambassadors, Ekiti State University(MLSA EKSU).
 - Facebook Developer Circle, Ado-Ekiti(DevC Ado).
 - Google Developer Group Cloud, Ado-Ekiti(GDG Cloud Ado).

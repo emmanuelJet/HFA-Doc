@@ -1,4 +1,6 @@
 site_name: Hacktoberfest in Ado-Ekiti
+site_description: Hacktoberfest Online Meetup in Ado-Ekiti with repo aekiti/hacktoberfest2020
+site_author: '@emmanuelJet'
 nav:
   - Introduction: 'index.md'
   - Tagging: 'tagging.md'
