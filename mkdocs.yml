@@ -10,8 +10,8 @@ nav:
     - OpenSource with æternity: 'meetups/open-source-with-aeternity.md'
     - Hacktoberfest: 'meetups/hacktoberfest.md'
   - Guildlines:
-    - Overview: 'guildlines/README.md'
-    - Pull Request: 'guildlines/pull-request.md'
+    - ækiti: 'guildlines/aekiti.md'
+    - Documentation: 'guildlines/documentation.md'
 theme:
   name: 'material'
   palette:
