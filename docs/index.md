@@ -1,18 +1,28 @@
-# Hacktoberfest in Ado-Ekiti
+# OpenSource with æternity
 
-This is an online/virtual meetup set to bring together the tech communities in Ado-Ekiti. It aims at gathering developers, entrepreneurs, writers, designers, and lots from the tech communities in Ado-Ekiti majorly for the Hacktoberfest event.
+## The Brief
+The gathering of developers, writers, designers, from and beyond the ækiti æmbassy to learn about OpenSource, æternity, and Superhero while contributing to OpenSource to celebrate Hacktoberfest. A contest of 300AE reward is attached to the event for attendees to grab.
 
-## Goals
-1. Learning about OpenSource
-2. Enforcing collaboration amidst community members.
-3. Enforcing the connection between the community members.
-4. Members getting their limited branded Hacktoberfest swag
+**Date**: TBD
 
-## Communities
-Listed below are the communities affiliated with this meetup.
+**Time**: TBD
 
-- Developer Student Clubs, Ekiti State University(DSC EKSU).
-- ækiti æmbassy(ækiti).
-- Microsoft Learn Student Ambassadors, Ekiti State University(MLSA EKSU).
-- Facebook Developer Circle, Ado-Ekiti(DevC Ado).
-- Google Developer Group Cloud, Ado-Ekiti(GDG Cloud Ado).
+**RSVP**: TBD
+
+**Venue**: Jitsi Meeting Room - [https://league.superhero.com/aekiti](https://league.superhero.com/aekiti){: target="_blank" }
+
+## The Sessions
+
+1. Introducing Hacktoberfest
+2. OpenSource: A Tool For All
+3. æternity & Superhero
+4. Workshop: OpenSource with æternity
+
+## The Goals
+
+- Learning about Hacktoberfest
+- Learning about OpenSource
+- Having full knowledge of æternity blockchain
+- Learning how to write Sophia Smart Contract
+- Learning how to build as simple æpp on æternity blockchain
+- Perfect understanding of the Superhero platform

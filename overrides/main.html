@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {% set title = "OpenSource with æternity" %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = page.meta.title ~ " - " ~ title %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set title = page.title ~ " - " ~ title | striptags %}
+  {% endif %}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:description" content="{{ config.site_description }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:image" content="https://aekiti.com/assets/images/icons/icon-512x512.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="512" />
+  <meta property="og:image:height" content="512" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@AeternityEkiti" />
+  <meta name="twitter:creator" content="@emmanuelJet_" />
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:description" content="{{ config.site_description }}" />
+  <meta name="twitter:image" content="https://aekiti.com/assets/images/icons/icon-512x512.png" />
+{% endblock %}

@@ -1,30 +1,50 @@
-site_name: Hacktoberfest in Ado-Ekiti
-site_description: Hacktoberfest Online Meetup in Ado-Ekiti with repo aekiti/hacktoberfest2020
-site_author: '@emmanuelJet'
+site_name: OpenSource with æternity
+site_description: OpenSource with æternity, Superhero, and Hacktoberfest
+site_author: Emmanuel Joseph(JET)
+repo_name: 'emmanuelJet/OSA-Documentation'
+repo_url: 'https://github.com/emmanuelJet/OSA-Documentation'
 nav:
   - Introduction: 'index.md'
   - Tagging: 'tagging.md'
-  - Meetups:
-    - Overview: 'meetups/README.md'
-    - GitHub Workhop: 'meetups/github-workhop.md'
-    - OpenSource with æternity: 'meetups/open-source-with-aeternity.md'
-    - Hacktoberfest: 'meetups/hacktoberfest.md'
+  - Agenda: 'agenda.md'
+  - Contest: 'contest.md'
   - Guildlines:
+    - Hacktoberfest: 'guildlines/hacktoberfest.md'
     - ækiti: 'guildlines/aekiti.md'
     - Documentation: 'guildlines/documentation.md'
 theme:
-  name: 'material'
+  name: material
+  custom_dir: overrides
   palette:
-      primary: black
-      accent: white
-      toggle:
-        icon: fontawesome/toggle-on
-        name: Switch to light mode
+    primary: pink
+    accent: black
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+  favicon: https://aekiti.com/favicon.ico
   icon:
     logo: fontawesome/brands/readme
-    repo: fontawesome/brands/github
-repo_name: 'emmanuelJet/hfado-doc'
-repo_url: 'https://github.com/emmanuelJet/hfado-doc'
+    repo: fontawesome/brands/git-alt
+  features:
+    - header.autohide
+    - search.highlight
+google_analytics:
+  - UA-152643946-2
+  - auto
+markdown_extensions:
+  - attr_list
+  - pymdownx.tabbed
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aekiti
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/channel/UCISZ6H0Zb-ndRLSgcR1sH_g
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/AeternityEkiti
+    - icon: fontawesome/brands/telegram
+      link: https://telegram.me/aekiti
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/aekitiaembassy
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/aeternityekiti

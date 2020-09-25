@@ -1,1 +1,0 @@
-# Open Source with æternity

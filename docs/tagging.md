@@ -1,37 +1,20 @@
 # Tagging
+Share your SuperheroLeague experience and connect with other Hacktoberfest participants by using the below hashtags and handles on your social media platform of choice.
 
 ## Hashtags
 
 <ul>
+  <li>#superheroleague</li>
   <li>#hacktoberfest</li>
+  <li>#superhero</li>
+  <li>#aeternity</li>
   <li>#hacktoberfest2020</li>
-  <li>#hacktoberfestado</li>
-  <li>#DSCEKSU</li>
   <li>#aekiti</li>
-  <li>#MLSAEKSU</li>
-  <li>#DevCAdo</li>
-  <li>#GDGCloudAdo</li>
 </ul>
 
 ## Handles
-### Twitter
 
-- [@digitalocean](https://twitter.com/digitalocean)
-- [@hacktoberfest](https://twitter.com/hacktoberfest)
-- [@DscEksu](https://twitter.com/DscEksu)
-- [@AeternityEkiti](https://twitter.com/AeternityEkiti)
-- [@mlsa_eksu](https://twitter.com/mlsa_eksu)
-- [@DevcAdo](https://twitter.com/DevcAdo)
-- [@gcdcado](https://twitter.com/gcdcado)
-
-### Facebook
-
-- [@DevCAdoEkiti](https://www.facebook.com/groups/DevCAdoEkiti)
-- [@aeternityekiti](https://facebook.com/aeternityekiti)
-
-### Instagram
-
-- [@dsceksu](https://instagram.com/dsceksu)
-- [@aekitiaembassy](https://instagram.com/aekitiaembassy)
-- [@facebookdevc_adoekiti](https://instagram.com/facebookdevc_adoekiti)
-- [@gcdcado](https://instagram.com/gcdcado)
+- **Twitter**: [@superhero_chain](https://twitter.com/superhero_chain){: target="_blank" }, [@digitalocean](https://twitter.com/digitalocean){: target="_blank" }, [@hacktoberfest](https://twitter.com/hacktoberfest){: target="_blank" }, [@AeternityEkiti](https://twitter.com/AeternityEkiti){: target="_blank" }</li>
+- **Facebook**: [@legionofsuperheroes](https://facebook.com/legionofsuperheroes){: target="_blank" }, [@aeternityekiti](https://facebook.com/aeternityekiti){: target="_blank" }</li>
+- **LinkedIn**: [@superherolegion](https://linkedin.com/company/superherolegion){: target="_blank" }</li>
+- **Instagram**: [@superhero.com.official](https://instagram.com/superhero.com.official){: target="_blank" }, [@aekitiaembassy](https://instagram.com/aekitiaembassy){: target="_blank" }</li>
