@@ -1,27 +1,27 @@
-# Documentation Repository Guildlines
+# ækiti Repository Guildlines
 ## Overview
 Welcome hackers! It is **awesome** to have you here! In this guideline you would learn how to contribute to the below repository:
 
-> [emmanuelJet/HFA-Doc](https://github.com/emmanuelJet/HFA-Doc){: target="_blank" }
+> [DSCEksu/hacktoberfest2020](https://github.com/DSCEksu/hacktoberfest2020){: target="_blank" }
 
-Before you start contributing to this project make sure you have read the repository [Code Of Conduct](https://github.com/emmanuelJet/HFA-Doc/blob/master/CODE_OF_CONDUCT.md){: target="_blank" }, it is really important to make this inclusive and open to everyone, otherwise, it would not be awesome.
+Before you start contributing to this project make sure you have read the repository [Code Of Conduct](https://github.com/DSCEksu/hacktoberfest2020/blob/master/CODE_OF_CONDUCT.md){: target="_blank" }, it is really important to make this inclusive and open to everyone, otherwise, it would not be awesome.
 
-This [repository](https://github.com/emmanuelJet/HFA-Doc){: target="_blank" } contains the files to this documentation and was created to get developers going with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/){: target="_blank" }.
+This [repository](https://github.com/DSCEksu/hacktoberfest2020){: target="_blank" } was created to get developers going with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/){: target="_blank" }.
 
 ## Steps
 1. Fork and clone the repository.
 2. Create a new branch.
-3. Add your changes
-4. Commit and push your fork.
-5. Create a pull request.
-6. Star the repository.
+3. Add your contribution
+5. Commit and push your fork.
+6. Create a pull request.
+7. Star the repository.
 
 ## How To Complete Steps
 ### 1. Fork and Clone the repository
 
 ### 2. Create a new branch
 
-### 3. Add your changes
+### 3. Add your contribution
 
 ### 4. Commit and push your fork
 

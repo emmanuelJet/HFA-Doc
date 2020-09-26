@@ -7,8 +7,11 @@ OpenSource with æternity Event Documentation.
 - Event Documentation - [https://aekiti.github.io/hacktoberfest2020](https://aekiti.github.io/hacktoberfest2020)
 
 ## Contribution Guidelines
-Welcome hackers! It is **awesome** to have you here! Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/emmanuelJet/hfado-doc/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not... [Read More](https://github.com/emmanuelJet/OSA-Documentation/blob/master/CONTRIBUTING.md)
+Welcome hackers! It is **awesome** to have you here! Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/emmanuelJet/HFA-Doc/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not... 
 
+[Read More](https://github.com/emmanuelJet/HFA-Doc/blob/master/CONTRIBUTING.md)
+
+## License
 ```md
 MIT License
 

@@ -1,28 +1,3 @@
-# OpenSource with æternity
+# Hacktoberfest in Ado-Ekiti
 
-## The Brief
-The gathering of developers, writers, designers, from and beyond the ækiti æmbassy to learn about OpenSource, æternity, and Superhero while contributing to OpenSource to celebrate Hacktoberfest. A contest of 300AE reward is attached to the event for attendees to grab.
-
-**Date**: TBD
-
-**Time**: TBD
-
-**RSVP**: TBD
-
-**Venue**: Jitsi Meeting Room - [https://league.superhero.com/aekiti](https://league.superhero.com/aekiti){: target="_blank" }
-
-## The Sessions
-
-1. Introducing Hacktoberfest
-2. OpenSource: A Tool For All
-3. æternity & Superhero
-4. Workshop: OpenSource with æternity
-
-## The Goals
-
-- Learning about Hacktoberfest
-- Learning about OpenSource
-- Having full knowledge of æternity blockchain
-- Learning how to write Sophia Smart Contract
-- Learning how to build as simple æpp on æternity blockchain
-- Perfect understanding of the Superhero platform
+Hacktoberfest Online Meetup in Ado-Ekiti in the collaborative event between the Developer Student Club, Ekiti State University(DSC EKSU) community and the ækiti æmbassy(ækiti) community. The [Developer Student Club EKSU](https://dsc.community.dev/ekiti-state-university/){: target="_blank" } community is a Google Developers Program, for students to acquire technical skills, practice what they are taught in school and build solutions to local problems while the [ækiti æmbassy(ækiti)](https://aekiti.com/){: target="_blank" } is a community of developers, writers, digital designers & entrepreneurs interested in learning and developing solutions using æternity technologies.

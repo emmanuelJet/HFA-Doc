@@ -1,15 +1,21 @@
-site_name: OpenSource with æternity
-site_description: OpenSource with æternity, Superhero, and Hacktoberfest
+site_name: Hacktoberfest in Ado-Ekiti
+site_description: OpenSource with DSC EKSU, ækiti æmbassy, Superhero, and Hacktoberfest
 site_author: Emmanuel Joseph(JET)
-repo_name: 'emmanuelJet/OSA-Documentation'
-repo_url: 'https://github.com/emmanuelJet/OSA-Documentation'
+repo_name: 'emmanuelJet/HFA-Doc'
+repo_url: 'https://github.com/emmanuelJet/HFA-Doc'
 nav:
   - Introduction: 'index.md'
+  - Meetup:
+    - One Hour with GitHub: 'meetup/one-hour-with-github.md'
+    - OpenSource with æternity: 'meetup/opensource-with-aeternity.md'
   - Tagging: 'tagging.md'
-  - Agenda: 'agenda.md'
+  - Agenda: 
+    - One Hour with GitHub: 'agenda/one-hour-with-github.md'
+    - OpenSource with æternity: 'agenda/opensource-with-aeternity.md'
   - Contest: 'contest.md'
   - Guildlines:
     - Hacktoberfest: 'guildlines/hacktoberfest.md'
+    - DSC EKSU: 'guildlines/dsceksu.md'
     - ækiti: 'guildlines/aekiti.md'
     - Documentation: 'guildlines/documentation.md'
 theme:
@@ -36,15 +42,7 @@ markdown_extensions:
   - pymdownx.tabbed
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/aekiti
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/channel/UCISZ6H0Zb-ndRLSgcR1sH_g
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/AeternityEkiti
     - icon: fontawesome/brands/telegram
       link: https://telegram.me/aekiti
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/aekitiaembassy
-    - icon: fontawesome/brands/facebook
-      link: https://facebook.com/aeternityekiti

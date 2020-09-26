@@ -1,9 +1,9 @@
-# Agenda
+# OpenSource with æternity
 
 ## 1. Welcome[5 min]
 [Debby Akinola](https://twitter.com/thru_gem){: target="_blank" } - Event Moderator
 ## 2. Introducing Hacktoberfest[10 min]
-[Emmanuel Joseph(JET)](https://twitter.com/emmanuelJet_){: target="_blank" } - Event Covener
+[Favour Adeshina](https://twitter.com/favour_adeshina){: target="_blank" } - Lead, DSC EKSU
 ## 3. OpenSource: A Tool For All[30 min]
 **Session Agenda**: OpenSource is not a new terminology but new in lots of minds, especially individuals not in the developer's world. The speaker is required to give a non-technical explanation of Open Source thereby relating it to Hacktoberfest and æternity blockchain.
 
