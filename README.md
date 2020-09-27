@@ -2,12 +2,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Hacktoberfest Online Meetup in Ado-Ekiti in the collaborative event between the Developer Student Club, Ekiti State University(DSC EKSU) community and the ækiti æmbassy(ækiti) community.
+The Hacktoberfest Online Meetup in Ado-Ekiti is a collaborative event between the DSC EKSU community and the ækiti community.
 
 ## Quick Links
 
 - Meetup Guide - [https://aekiti.github.io/hacktoberfest2020](https://aekiti.github.io/hacktoberfest2020)
-- DSC EKSU Meetup Repo - [DSCEksu/hacktoberfest2020](https://github.com/D/hacktoberfest2020)
+- DSC EKSU Meetup Repo - [DSCEksu/hacktoberfest2020](https://github.com/DSCEksu/hacktoberfest2020)
 - ækiti Meetup Repo - [aekiti/hacktoberfest2020](https://github.com/aekiti/hacktoberfest2020)
 
 ## Contribution Guidelines
