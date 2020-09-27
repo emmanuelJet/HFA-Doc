@@ -1,10 +1,11 @@
-# OpenSource with æternity
-OpenSource with æternity Event Documentation.
+# Hacktoberfest in Ado-Ekiti
+Hacktoberfest Online Meetup in Ado-Ekiti in the collaborative event between the Developer Student Club, Ekiti State University(DSC EKSU) community and the ækiti æmbassy(ækiti) community.
 
 ## Quick Links
 
-- Event Repo - [aekiti/hacktoberfest2020](https://github.com/aekiti/hacktoberfest2020)
-- Event Documentation - [https://aekiti.github.io/hacktoberfest2020](https://aekiti.github.io/hacktoberfest2020)
+- Meetup Guide - [https://aekiti.github.io/hacktoberfest2020](https://aekiti.github.io/hacktoberfest2020)
+- DSC EKSU Meetup Repo - [DSCEksu/hacktoberfest2020](https://github.com/D/hacktoberfest2020)
+- ækiti Meetup Repo - [aekiti/hacktoberfest2020](https://github.com/aekiti/hacktoberfest2020)
 
 ## Contribution Guidelines
 Welcome hackers! It is **awesome** to have you here! Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/emmanuelJet/HFA-Doc/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not... 

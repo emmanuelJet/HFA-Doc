@@ -1,4 +1,5 @@
 # OpenSource with æternity
+[Save the Date: OpenSource with æternity](https://aekiti.com/workshop/opensource-with-aeternity){: .md-button target="_blank" }
 
 ## 1. Welcome[5 min]
 [Debby Akinola](https://twitter.com/thru_gem){: target="_blank" } - Event Moderator
@@ -36,13 +37,13 @@
 
 **Session Goals**:
 
-- Learn how to write simple Sophia smart contracts.
-- Learn how to build a decentralized app using the æternity Javascript SDK
-- Learn how to practically contribute to OpenSource.
+- Learning how to write simple Sophia smart contracts.
+- Learning how to build a decentralized app using the æternity Javascript SDK
+- Learning how to practically contribute to OpenSource.
 
 **Speaker**: [Jesulonimi Akingbesote](https://twitter.com/nimi_software){: target="_blank" }
 
 **Speaker Description**: Jesulonimi Akingbesote is a Software Developer that builds awesome solutions using React, Kotlin, and æternity tools. He is ækiti æmbassy Co-Lead and has written æternity web and mobile-based tutorials to help developers in the ecosystem.
 
 ## 7. Closing[5 min]
-[Debby Akinola](https://twitter.com/thru_gem){: target="_blank" }(Event Moderator)
+[Debby Akinola](https://twitter.com/thru_gem){: target="_blank" } - Event Moderator
