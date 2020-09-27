@@ -17,4 +17,4 @@ One Hour with GitHub is a practical meetup for attendees to learn about Git and 
 
 - Learning about Git
 - Perfect understanding of GitHub
-x- Increasing participation of attendees for the Hacktoberfest event
+- Increasing participation of attendees for the Hacktoberfest event

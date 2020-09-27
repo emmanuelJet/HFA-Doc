@@ -29,6 +29,5 @@
 
 **Speaker Description**: Fele Omolola is a front-end developer, designer and a technical writer.
 
-
 ## 5. Closing[10 min]
 [Favour Adeshina](https://twitter.com/favour_adeshina){: target="_blank" } - Host

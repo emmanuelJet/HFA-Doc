@@ -1,5 +1,6 @@
 site_name: Hacktoberfest in Ado-Ekiti
 site_description: OpenSource with DSC EKSU, ækiti æmbassy, Superhero, and Hacktoberfest
+site_image: https://aekiti.com/assets/images/icons/icon-512x512.png
 site_author: Emmanuel Joseph(JET)
 repo_name: 'emmanuelJet/HFA-Doc'
 repo_url: 'https://github.com/emmanuelJet/HFA-Doc'
@@ -37,6 +38,7 @@ google_analytics:
   - UA-152643946-2
   - auto
 markdown_extensions:
+  - abbr
   - attr_list
   - pymdownx.tabbed
 extra:
