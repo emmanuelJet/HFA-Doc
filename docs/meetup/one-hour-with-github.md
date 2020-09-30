@@ -1,6 +1,7 @@
 # One Hour with GitHub
 
-One Hour with GitHub is a practical meetup for attendees to learn about Git and GitHub while contributing to OpenSource through Pull Request for the Hacktoberfest 2020 task.
+## The Brief
+"One Hour with GitHub" is a practical meetup for attendees to learn about Git and GitHub while contributing to OpenSource, through Pull Request for the Hacktoberfest 2020 task.
 
 **Date**: Friday, 2nd October, 2020
 

@@ -6,28 +6,27 @@ Welcome hackers! It is **awesome** to have you here! In this guideline you would
 
 Before you start contributing to this project make sure you have read the repository [Code Of Conduct](https://github.com/emmanuelJet/HFA-Doc/blob/master/CODE_OF_CONDUCT.md){: target="_blank" }, it is really important to make this inclusive and open to everyone, otherwise, it would not be awesome.
 
-This [repository](https://github.com/emmanuelJet/HFA-Doc){: target="_blank" } contains the files to this documentation and was created to get developers going with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/){: target="_blank" }.
+This [repository](https://github.com/emmanuelJet/HFA-Doc){: target="_blank" } contains the files to this documentation and was created to guide attendees of the [Hacktoberfest Online Meetup in Ado-Ekiti](https://organize.mlh.io/participants/events/4592-hacktoberfest-online-meetup-in-ado-ekiti-dsc-eksu-aekiti){: target="_blank" }.
 
-## Steps
-1. Fork and clone the repository.
-2. Create a new branch.
-3. Add your changes
-4. Commit and push your fork.
-5. Create a pull request.
-6. Star the repository.
+## How To Contribute
 
-## How To Complete Steps
-### 1. Fork and Clone the repository
+=== "Step 1"
+    **Fork and Clone the repository**
 
-### 2. Create a new branch
+=== "Step 2"
+    **Create a new branch**
 
-### 3. Add your changes
+=== "Step 3"
+    **Add your contribution**
 
-### 4. Commit and push your fork
+=== "Step 4"
+    **Commit and push your fork**
 
-### 5. Create a pull request
+=== "Step 5"
+    **Create a pull request**
 
-### 6. Star the repository
+=== "Step 6"
+    **Star the repository**
 
 ## Resources
 

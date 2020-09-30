@@ -1,12 +1,13 @@
 # OpenSource with æternity
 
+## The Brief
 The gathering of developers, writers, designers, from and beyond the ækiti æmbassy to learn about OpenSource, æternity, and Superhero while contributing to OpenSource to celebrate Hacktoberfest with an attached event contest of 300AE for attendees to grab.
 
-**Date**: Friday, 9th October, 2020
+**Date**: Friday, 16th October, 2020
 
 **Time**: 04:00PM - 06:00PM (WAT)
 
-[Venue: Jisti](https://league.superhero.com/aekiti){: .md-button target="_blank" } [Save the Date: OpenSource with æternity](https://aekiti.com/workshop/opensource-with-aeternity){: .md-button .md-button--primary target="_blank" }
+[Save the Date: OpenSource with æternity](https://aekiti.com/workshop/opensource-with-aeternity){: .md-button target="_blank" }
 
 ## The Sessions
 

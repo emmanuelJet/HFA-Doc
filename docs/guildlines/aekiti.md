@@ -8,29 +8,28 @@ Before you start contributing to this project make sure you have read the reposi
 
 This [repository](https://github.com/aekiti/hacktoberfest2020){: target="_blank" } was created to get developers going with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/){: target="_blank" }.
 
-## Steps
-1. Fork and clone the repository.
-2. Create a new branch.
-3. Add your project
-4. Add your profile
-5. Commit and push your fork.
-6. Create a pull request.
-7. Star the repository.
+## How To Contribute
 
-## How To Complete Steps
-### 1. Fork and Clone the repository
+=== "Step 1"
+    **Fork and Clone the repository**
 
-### 2. Create a new branch
+=== "Step 2"
+    **Create a new branch**
 
-### 3. Add your contribution
+=== "Step 3"
+    **Add your contribution**
 
-### 5. Add your profile
+=== "Step 4"
+    **Add your profile**
 
-### 5. Commit and push your fork
+=== "Step 5"
+    **Commit and push your fork**
 
-### 6. Create a pull request
+=== "Step 6"
+    **Create a pull request**
 
-### 7. Star the repository
+=== "Step 7"
+    **Star the repository**
 
 ## Resources
 

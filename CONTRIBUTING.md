@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 _Welcome hackers! It is **awesome** to have you here! Before you start contributing with this project make sure you read our [Code Of Conduct](https://github.com/emmanuelJet/HFA-Doc/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone, otherwise, it would not be awesome_
-This repository was created to help developers get started with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
+This documentation was created to guide attendees of the [Hacktoberfest Online Meetup in Ado-Ekiti](https://organize.mlh.io/participants/events/4592-hacktoberfest-online-meetup-in-ado-ekiti-dsc-eksu-aekiti).
 
 ## Have you found some awesome repositories participating in Hacktoberfest?
 
