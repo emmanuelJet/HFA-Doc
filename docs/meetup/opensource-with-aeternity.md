@@ -32,7 +32,7 @@ The event contest is aimed to reward contributions using the SuperHero platform.
 Participating in the contest simply means contributing to OpenSource on the [aekiti/hacktoberfest2020](https://github.com/aekiti/hacktoberfest2020){: target="_blank" } GitHub Repository.  
 The **important rules** are, you must:
 
-1. follow the provided [contributing guidelines](/guildlines/aekiti){: target="_blank" },
+1. follow the provided [contributing guidelines](../../guildlines/aekiti){: target="_blank" },
 2. have a SuperHero wallet [for more info on SuperHero visit [Medium](https://blog.usejournal.com/superhero-aekiti-9e491822e8bb){: target="_blank" } or [YouTube](https://youtu.be/AJYTcT8kDd4){: target="_blank" }], and
 3. make at least 1 social media post/tweet during the contest period using the Hashtags and Handles respectively.
 
